@@ -1,4 +1,4 @@
-Install Node js and NPM
+Install Node js and NPM.
 Install MongoDB
 Install PM2
 Run npm install in the root directory
