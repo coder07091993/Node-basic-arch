@@ -1,0 +1,4 @@
+{
+  "IP": { "blacklist": ["http://example.com"] },
+  "Database": { "uri": "mongodb://localhost/ConnectionTest" }
+}

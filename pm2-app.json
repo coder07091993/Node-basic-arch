@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "name": "basic-arch",
+      "script": "/home/nitesh/Desktop/node-arch",
+      "instances": 2,
+      "exec_mode": "cluster",
+      "watch": true,
+      "env": {
+        "NODE_ENV": "local",
+        "PORT": "3001"
+      },
+      "node_args": "--max_old_space_size=8192"
+    }
+  ]
+}
